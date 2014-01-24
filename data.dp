@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Ny Endang\Downloads\Compressed\Searching\data.dp
+Name=data
+MainUnit=C:\Users\Ny Endang\Downloads\Compressed\Searching\mahasiswa.pas
+UnitCount=1
+ResFiles=C:\Users\Ny Endang\Downloads\Compressed\Searching\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Program Files (x86)\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Ny Endang\Downloads\Compressed\Searching\mahasiswa.pas
+FileTime=1143100836
